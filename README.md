@@ -2,7 +2,7 @@
 
 ## Create a project called moviedex-api and initialize it as an Express app to meet the following requirements.
 
-** 1.Users can search for Movies by genre, country or avg_vote
+### 1.Users can search for Movies by genre, country or avg_vote
 
    - The endpoint is GET /movie
    
@@ -16,6 +16,6 @@
    
    - The API responds with an array of full movie entries for the search results
    
-** 2.The endpoint only responds when given a valid Authorization header with a Bearer API token value.
+### 2.The endpoint only responds when given a valid Authorization header with a Bearer API token value.
 
-** 3.The endpoint should have general security in place such as best practice headers and support for CORS.
+### 3.The endpoint should have general security in place such as best practice headers and support for CORS.
